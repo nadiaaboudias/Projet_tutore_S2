@@ -1,0 +1,40 @@
+body {
+	margin : 0;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+}
+
+.center-div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.label {
+	display: block;
+	margin-bottom: 8px;
+}
+
+.box-model {
+	width: 350px;
+	height: 48px;
+	border-radius: 4px;
+}
+
+.button {
+	background-color: #FF7675;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.login input {
+	margin-bottom: 24px;
+}
+
+.login a {
+	display: block;
+	margin-top: 32px;
+	text-align: center;
+}
